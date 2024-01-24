@@ -1,0 +1,1001 @@
+Date,Crime Type,Location,Month,Latitude,Longitude
+2022-09-30,Vandalism,Classroom Building,September,37.054881,-121.928481
+2022-10-17,Vandalism,Recreation Center,October,37.060276,-121.945512
+2022-01-10,Theft,Dormitory,January,37.042365,-121.935411
+2022-01-11,Burglary,Library,January,37.043759,-121.910823
+2022-07-22,Drug Offense,Classroom Building,July,37.096366,-121.961656
+2022-05-11,Drug Offense,Cafeteria,May,37.079173,-121.947111
+2022-03-10,Assault,Library,March,37.056804,-121.90744
+2022-11-16,Vandalism,Classroom Building,November,37.007104,-121.991287
+2022-08-31,Assault,Classroom Building,August,37.002022,-121.916738
+2022-07-27,Vandalism,Recreation Center,July,37.077816,-121.912999
+2022-01-10,Assault,Classroom Building,January,37.097862,-121.920084
+2022-04-11,Drug Offense,Dormitory,April,37.046148,-121.921947
+2022-12-08,Burglary,Recreation Center,December,37.011827,-121.936008
+2022-10-28,Burglary,Classroom Building,October,37.014335,-121.905533
+2022-01-22,Burglary,Cafeteria,January,37.052185,-121.958534
+2022-03-27,Theft,Dormitory,March,37.026456,-121.922577
+2022-04-10,Assault,Recreation Center,April,37.045615,-121.943157
+2022-06-15,Theft,Dormitory,June,37.001879,-121.938236
+2022-09-28,Burglary,Recreation Center,September,37.06121,-121.938307
+2022-05-02,Theft,Cafeteria,May,37.094375,-121.931818
+2022-01-09,Theft,Recreation Center,January,37.035951,-121.956297
+2022-05-06,Drug Offense,Library,May,37.069763,-121.993977
+2022-09-20,Vandalism,Classroom Building,September,37.066677,-121.932936
+2022-11-25,Burglary,Classroom Building,November,37.021038,-121.987107
+2022-07-16,Burglary,Cafeteria,July,37.031543,-121.963629
+2022-07-01,Drug Offense,Library,July,37.05702,-121.95614
+2022-12-02,Drug Offense,Recreation Center,December,37.098837,-121.989796
+2022-07-21,Vandalism,Cafeteria,July,37.020888,-121.983869
+2022-11-21,Assault,Library,November,37.065311,-121.974671
+2022-11-16,Vandalism,Cafeteria,November,37.046631,-121.975557
+2022-07-04,Burglary,Cafeteria,July,37.015897,-121.988962
+2022-06-14,Drug Offense,Cafeteria,June,37.065633,-121.986182
+2022-10-30,Drug Offense,Library,October,37.019658,-121.963127
+2022-09-12,Assault,Recreation Center,September,37.082099,-121.99029
+2022-11-22,Theft,Library,November,37.083794,-121.99039
+2022-12-17,Burglary,Recreation Center,December,37.097646,-121.953135
+2022-02-06,Assault,Dormitory,February,37.097676,-121.939515
+2022-06-23,Burglary,Classroom Building,June,37.073926,-121.996081
+2022-04-21,Theft,Classroom Building,April,37.028281,-121.98798
+2022-11-22,Vandalism,Classroom Building,November,37.029614,-121.988127
+2022-05-28,Theft,Dormitory,May,37.031798,-121.958574
+2022-01-10,Vandalism,Recreation Center,January,37.006415,-121.930753
+2022-05-09,Vandalism,Dormitory,May,37.05666,-121.973461
+2022-11-06,Theft,Recreation Center,November,37.052325,-121.990606
+2022-03-08,Theft,Dormitory,March,37.057595,-121.90707
+2022-04-13,Assault,Classroom Building,April,37.031857,-121.933259
+2022-08-07,Vandalism,Classroom Building,August,37.01318,-121.928367
+2022-11-09,Assault,Recreation Center,November,37.028941,-121.981681
+2022-12-27,Vandalism,Classroom Building,December,37.058651,-121.997989
+2022-04-02,Theft,Recreation Center,April,37.082894,-121.99953
+2022-03-12,Drug Offense,Cafeteria,March,37.067782,-121.972999
+2022-08-09,Vandalism,Recreation Center,August,37.073519,-121.903781
+2022-04-20,Assault,Dormitory,April,37.024875,-121.942384
+2022-05-08,Burglary,Library,May,37.059204,-121.942775
+2022-01-16,Drug Offense,Library,January,37.022308,-121.904725
+2022-01-09,Theft,Library,January,37.044713,-121.915359
+2022-08-07,Assault,Library,August,37.069948,-121.970256
+2022-07-20,Theft,Dormitory,July,37.08138,-121.960349
+2022-08-04,Burglary,Classroom Building,August,37.08811,-121.941873
+2022-03-09,Vandalism,Dormitory,March,37.088174,-121.930747
+2022-09-26,Assault,Classroom Building,September,37.072525,-121.949868
+2022-04-07,Vandalism,Recreation Center,April,37.095608,-121.935601
+2022-01-06,Vandalism,Classroom Building,January,37.042386,-121.939361
+2022-05-18,Assault,Library,May,37.001919,-121.969843
+2022-10-27,Theft,Classroom Building,October,37.066017,-121.970992
+2022-04-29,Burglary,Cafeteria,April,37.061802,-121.957123
+2022-11-02,Drug Offense,Cafeteria,November,37.013547,-121.970172
+2022-04-18,Assault,Dormitory,April,37.056996,-121.940913
+2022-01-22,Theft,Cafeteria,January,37.057433,-121.93468
+2022-06-17,Theft,Library,June,37.06521,-121.956858
+2022-07-22,Drug Offense,Dormitory,July,37.089655,-121.963244
+2022-08-04,Vandalism,Cafeteria,August,37.043586,-121.910808
+2022-11-30,Burglary,Recreation Center,November,37.080619,-121.929611
+2022-12-21,Theft,Recreation Center,December,37.010023,-121.908052
+2022-02-07,Burglary,Cafeteria,February,37.071424,-121.900115
+2022-05-02,Theft,Classroom Building,May,37.014945,-121.913187
+2022-06-08,Theft,Cafeteria,June,37.016249,-121.938444
+2022-08-25,Assault,Dormitory,August,37.012382,-121.915199
+2022-02-03,Theft,Cafeteria,February,37.080732,-121.94309
+2022-09-05,Drug Offense,Classroom Building,September,37.040718,-121.993083
+2022-09-26,Theft,Dormitory,September,37.069743,-121.954646
+2022-03-16,Vandalism,Library,March,37.072206,-121.913362
+2022-02-05,Burglary,Classroom Building,February,37.097552,-121.91442
+2022-08-09,Burglary,Dormitory,August,37.001171,-121.964002
+2022-12-14,Assault,Dormitory,December,37.072999,-121.982837
+2022-12-17,Vandalism,Cafeteria,December,37.052104,-121.994566
+2022-03-18,Vandalism,Classroom Building,March,37.02,-121.998148
+2022-09-24,Drug Offense,Library,September,37.07937,-121.977608
+2022-10-20,Vandalism,Dormitory,October,37.034535,-121.907192
+2022-04-08,Theft,Library,April,37.070441,-121.996816
+2022-07-20,Theft,Dormitory,July,37.016469,-121.937852
+2022-09-01,Drug Offense,Cafeteria,September,37.057723,-121.976211
+2022-11-08,Drug Offense,Dormitory,November,37.093421,-121.938603
+2022-03-21,Assault,Recreation Center,March,37.053563,-121.941009
+2022-08-04,Burglary,Recreation Center,August,37.073012,-121.968806
+2022-05-05,Vandalism,Classroom Building,May,37.039822,-121.979016
+2022-11-14,Theft,Recreation Center,November,37.018619,-121.905563
+2022-08-25,Burglary,Recreation Center,August,37.073955,-121.950954
+2022-07-06,Drug Offense,Library,July,37.022741,-121.974564
+2022-04-08,Assault,Cafeteria,April,37.005803,-121.956558
+2022-04-29,Assault,Cafeteria,April,37.03118,-121.930366
+2022-04-18,Theft,Recreation Center,April,37.037775,-121.98204
+2022-02-07,Theft,Recreation Center,February,37.002468,-121.993275
+2022-01-22,Assault,Library,January,37.067939,-121.95463
+2022-05-03,Vandalism,Library,May,37.053658,-121.910333
+2022-08-18,Vandalism,Cafeteria,August,37.099034,-121.97831
+2022-05-08,Vandalism,Dormitory,May,37.066308,-121.973668
+2022-09-11,Assault,Dormitory,September,37.002065,-121.924162
+2022-02-09,Drug Offense,Cafeteria,February,37.032002,-121.961654
+2022-07-02,Assault,Recreation Center,July,37.058832,-121.916895
+2022-12-01,Assault,Library,December,37.062898,-121.912735
+2022-06-10,Vandalism,Library,June,37.027354,-121.920195
+2022-05-01,Assault,Library,May,37.018564,-121.904721
+2022-06-16,Burglary,Cafeteria,June,37.068749,-121.978449
+2022-11-04,Burglary,Cafeteria,November,37.094737,-121.926914
+2022-04-17,Assault,Dormitory,April,37.025394,-121.978669
+2022-09-24,Drug Offense,Cafeteria,September,37.05182,-121.997434
+2022-11-03,Burglary,Recreation Center,November,37.020747,-121.957531
+2022-01-14,Assault,Classroom Building,January,37.037417,-121.953642
+2022-04-09,Assault,Recreation Center,April,37.027763,-121.941322
+2022-02-12,Assault,Dormitory,February,37.086386,-121.988247
+2022-08-08,Theft,Recreation Center,August,37.051738,-121.986793
+2022-10-01,Drug Offense,Dormitory,October,37.071686,-121.960394
+2022-04-11,Vandalism,Recreation Center,April,37.056542,-121.981672
+2022-06-23,Assault,Classroom Building,June,37.014485,-121.951194
+2022-10-17,Assault,Cafeteria,October,37.035561,-121.905957
+2022-11-10,Assault,Recreation Center,November,37.076533,-121.925134
+2022-03-07,Drug Offense,Cafeteria,March,37.090372,-121.991658
+2022-05-02,Assault,Library,May,37.055219,-121.941552
+2022-08-08,Theft,Dormitory,August,37.096194,-121.970785
+2022-07-31,Theft,Classroom Building,July,37.024083,-121.989971
+2022-01-18,Vandalism,Classroom Building,January,37.001643,-121.907047
+2022-04-19,Drug Offense,Dormitory,April,37.066992,-121.921485
+2022-06-23,Theft,Library,June,37.028173,-121.941359
+2022-12-26,Burglary,Dormitory,December,37.006396,-121.951437
+2022-05-10,Assault,Classroom Building,May,37.09775,-121.912349
+2022-09-25,Assault,Library,September,37.033816,-121.903843
+2022-04-16,Drug Offense,Classroom Building,April,37.02317,-121.905068
+2022-07-16,Assault,Dormitory,July,37.094138,-121.92008
+2022-10-07,Drug Offense,Recreation Center,October,37.063045,-121.912571
+2022-05-15,Drug Offense,Classroom Building,May,37.029302,-121.915106
+2022-02-23,Burglary,Classroom Building,February,37.061788,-121.998676
+2022-08-29,Burglary,Library,August,37.034723,-121.985186
+2022-02-19,Theft,Recreation Center,February,37.098183,-121.952163
+2022-05-24,Theft,Library,May,37.049739,-121.936053
+2022-03-11,Burglary,Library,March,37.036858,-121.98631
+2022-11-21,Drug Offense,Dormitory,November,37.082212,-121.981015
+2022-01-11,Burglary,Library,January,37.051132,-121.977568
+2022-05-02,Drug Offense,Classroom Building,May,37.009784,-121.913781
+2022-01-26,Drug Offense,Recreation Center,January,37.097292,-121.903917
+2022-12-03,Assault,Library,December,37.090656,-121.922595
+2022-11-03,Assault,Classroom Building,November,37.033315,-121.99189
+2022-08-10,Drug Offense,Library,August,37.040724,-121.976777
+2022-12-20,Assault,Classroom Building,December,37.013249,-121.994657
+2022-04-30,Burglary,Cafeteria,April,37.072559,-121.998857
+2022-12-10,Theft,Classroom Building,December,37.077058,-121.985305
+2022-08-01,Burglary,Recreation Center,August,37.007952,-121.99104
+2022-06-10,Burglary,Dormitory,June,37.067205,-121.975463
+2022-09-19,Assault,Cafeteria,September,37.042054,-121.944263
+2022-06-27,Burglary,Recreation Center,June,37.086055,-121.927296
+2022-08-05,Theft,Dormitory,August,37.027033,-121.986852
+2022-12-08,Theft,Library,December,37.005537,-121.96984
+2022-02-12,Assault,Dormitory,February,37.026212,-121.954386
+2022-08-23,Assault,Recreation Center,August,37.068328,-121.930437
+2022-10-02,Theft,Library,October,37.028352,-121.962007
+2022-01-13,Theft,Library,January,37.018115,-121.921145
+2022-08-31,Drug Offense,Recreation Center,August,37.005685,-121.9303
+2022-05-22,Drug Offense,Library,May,37.07787,-121.922259
+2022-05-08,Vandalism,Library,May,37.025942,-121.962619
+2022-05-27,Assault,Cafeteria,May,37.05876,-121.972718
+2022-06-11,Vandalism,Recreation Center,June,37.037085,-121.980295
+2022-02-07,Vandalism,Library,February,37.045986,-121.995539
+2022-03-13,Theft,Cafeteria,March,37.07998,-121.992304
+2022-12-22,Assault,Recreation Center,December,37.051884,-121.969319
+2022-04-07,Theft,Recreation Center,April,37.057754,-121.904057
+2022-08-27,Theft,Library,August,37.064557,-121.996464
+2022-03-04,Theft,Classroom Building,March,37.04304,-121.948998
+2022-11-04,Drug Offense,Recreation Center,November,37.053618,-121.931861
+2022-09-25,Theft,Dormitory,September,37.02776,-121.987114
+2022-05-02,Burglary,Recreation Center,May,37.039268,-121.904359
+2022-11-05,Vandalism,Recreation Center,November,37.018713,-121.909602
+2022-11-30,Burglary,Dormitory,November,37.054381,-121.954309
+2022-11-17,Drug Offense,Classroom Building,November,37.088204,-121.95414
+2022-12-22,Theft,Classroom Building,December,37.072417,-121.960097
+2022-09-23,Drug Offense,Library,September,37.090404,-121.930997
+2022-01-31,Assault,Classroom Building,January,37.069962,-121.967228
+2022-10-13,Drug Offense,Library,October,37.075678,-121.936394
+2022-06-25,Vandalism,Classroom Building,June,37.024002,-121.983946
+2022-11-01,Assault,Cafeteria,November,37.079639,-121.904083
+2022-09-29,Burglary,Dormitory,September,37.045814,-121.940902
+2022-01-09,Vandalism,Dormitory,January,37.085772,-121.954278
+2022-10-26,Assault,Dormitory,October,37.095187,-121.942425
+2022-09-17,Vandalism,Dormitory,September,37.082077,-121.909116
+2022-07-28,Assault,Library,July,37.081552,-121.984059
+2022-07-08,Theft,Classroom Building,July,37.06289,-121.960157
+2022-03-19,Theft,Library,March,37.006271,-121.957597
+2022-12-18,Assault,Cafeteria,December,37.025868,-121.915096
+2022-11-11,Theft,Library,November,37.00333,-121.904102
+2022-06-26,Drug Offense,Library,June,37.035537,-121.964329
+2022-12-15,Drug Offense,Cafeteria,December,37.001633,-121.981477
+2022-12-30,Vandalism,Recreation Center,December,37.040126,-121.907071
+2022-11-10,Theft,Library,November,37.009961,-121.90547
+2022-02-25,Assault,Recreation Center,February,37.086949,-121.954584
+2022-08-10,Drug Offense,Recreation Center,August,37.03267,-121.976726
+2022-07-01,Burglary,Library,July,37.061446,-121.996693
+2022-10-24,Burglary,Dormitory,October,37.001561,-121.95712
+2022-02-26,Theft,Recreation Center,February,37.006807,-121.974806
+2022-11-01,Drug Offense,Classroom Building,November,37.022116,-121.974681
+2022-04-08,Vandalism,Dormitory,April,37.013106,-121.998796
+2022-12-04,Theft,Cafeteria,December,37.011548,-121.938152
+2022-07-17,Assault,Library,July,37.097426,-121.900965
+2022-06-17,Vandalism,Library,June,37.040905,-121.983705
+2022-07-15,Vandalism,Cafeteria,July,37.063876,-121.950969
+2022-04-05,Theft,Classroom Building,April,37.098941,-121.99347
+2022-04-30,Theft,Recreation Center,April,37.078323,-121.97116
+2022-11-22,Drug Offense,Classroom Building,November,37.024142,-121.93375
+2022-02-06,Theft,Library,February,37.024606,-121.933414
+2022-11-10,Drug Offense,Cafeteria,November,37.051731,-121.957591
+2022-05-27,Drug Offense,Recreation Center,May,37.055469,-121.971295
+2022-03-26,Vandalism,Library,March,37.070657,-121.958514
+2022-05-09,Vandalism,Cafeteria,May,37.036055,-121.917134
+2022-11-28,Assault,Recreation Center,November,37.092497,-121.995399
+2022-03-08,Burglary,Cafeteria,March,37.023263,-121.965148
+2022-04-28,Theft,Library,April,37.081497,-121.901451
+2022-02-11,Assault,Cafeteria,February,37.096897,-121.909505
+2022-10-12,Theft,Library,October,37.029656,-121.900799
+2022-12-08,Drug Offense,Classroom Building,December,37.024942,-121.989409
+2022-01-13,Burglary,Cafeteria,January,37.095095,-121.976658
+2022-10-22,Assault,Dormitory,October,37.068977,-121.994164
+2022-01-06,Burglary,Dormitory,January,37.073071,-121.911828
+2022-12-21,Burglary,Classroom Building,December,37.027244,-121.962094
+2022-06-26,Theft,Library,June,37.03743,-121.925121
+2022-03-22,Assault,Library,March,37.023781,-121.982815
+2022-09-25,Theft,Dormitory,September,37.044929,-121.969553
+2022-04-14,Theft,Library,April,37.083919,-121.976226
+2022-05-30,Burglary,Library,May,37.050239,-121.905742
+2022-12-12,Drug Offense,Recreation Center,December,37.0634,-121.913271
+2022-08-11,Vandalism,Recreation Center,August,37.094021,-121.924924
+2022-12-16,Burglary,Library,December,37.069958,-121.903203
+2022-10-03,Assault,Cafeteria,October,37.09944,-121.954818
+2022-04-06,Theft,Classroom Building,April,37.007087,-121.970721
+2022-10-20,Assault,Library,October,37.015235,-121.958251
+2022-10-31,Vandalism,Classroom Building,October,37.013129,-121.939588
+2022-11-19,Theft,Library,November,37.038281,-121.910461
+2022-07-11,Theft,Dormitory,July,37.096779,-121.945312
+2022-12-27,Vandalism,Dormitory,December,37.027482,-121.940777
+2022-02-09,Vandalism,Recreation Center,February,37.089676,-121.959327
+2022-08-09,Vandalism,Cafeteria,August,37.055208,-121.972835
+2022-06-09,Drug Offense,Classroom Building,June,37.045544,-121.959829
+2022-07-05,Drug Offense,Library,July,37.024841,-121.949413
+2022-03-13,Assault,Recreation Center,March,37.031038,-121.962697
+2022-02-28,Drug Offense,Recreation Center,February,37.052497,-121.92494
+2022-03-29,Theft,Recreation Center,March,37.033351,-121.907584
+2022-05-24,Theft,Dormitory,May,37.086232,-121.995131
+2022-11-29,Theft,Cafeteria,November,37.025364,-121.955386
+2022-03-04,Drug Offense,Classroom Building,March,37.010463,-121.965152
+2022-05-25,Assault,Classroom Building,May,37.07401,-121.931949
+2022-07-21,Drug Offense,Dormitory,July,37.062238,-121.928947
+2022-10-22,Theft,Cafeteria,October,37.020492,-121.96583
+2022-02-25,Drug Offense,Recreation Center,February,37.067624,-121.912077
+2022-03-22,Drug Offense,Recreation Center,March,37.054368,-121.97173
+2022-08-30,Drug Offense,Dormitory,August,37.003024,-121.928966
+2022-11-03,Theft,Dormitory,November,37.000788,-121.962732
+2022-10-24,Assault,Classroom Building,October,37.053054,-121.907789
+2022-03-17,Assault,Library,March,37.008949,-121.959406
+2022-03-27,Burglary,Dormitory,March,37.002431,-121.965739
+2022-05-14,Assault,Dormitory,May,37.062223,-121.972093
+2022-07-14,Theft,Recreation Center,July,37.020975,-121.98843
+2022-02-22,Burglary,Classroom Building,February,37.057714,-121.930473
+2022-07-14,Burglary,Recreation Center,July,37.067196,-121.905114
+2022-08-12,Theft,Cafeteria,August,37.00027,-121.93528
+2022-12-02,Burglary,Library,December,37.060039,-121.941126
+2022-04-28,Vandalism,Recreation Center,April,37.096277,-121.998313
+2022-06-09,Drug Offense,Classroom Building,June,37.069648,-121.918632
+2022-03-11,Drug Offense,Classroom Building,March,37.050981,-121.966604
+2022-10-17,Theft,Library,October,37.079084,-121.990276
+2022-06-02,Assault,Classroom Building,June,37.044204,-121.948005
+2022-12-13,Vandalism,Classroom Building,December,37.069396,-121.990911
+2022-04-23,Drug Offense,Cafeteria,April,37.022776,-121.95897
+2022-04-02,Theft,Library,April,37.062329,-121.911304
+2022-02-16,Burglary,Recreation Center,February,37.061883,-121.986654
+2022-02-03,Theft,Library,February,37.098058,-121.912821
+2022-03-24,Theft,Cafeteria,March,37.050272,-121.907765
+2022-11-02,Theft,Classroom Building,November,37.054138,-121.907669
+2022-03-13,Assault,Dormitory,March,37.08299,-121.903171
+2022-09-24,Burglary,Cafeteria,September,37.091978,-121.996397
+2022-07-28,Drug Offense,Classroom Building,July,37.017477,-121.961087
+2022-08-01,Vandalism,Classroom Building,August,37.095214,-121.969997
+2022-03-05,Burglary,Recreation Center,March,37.016047,-121.91137
+2022-02-20,Vandalism,Recreation Center,February,37.044639,-121.909212
+2022-10-10,Vandalism,Library,October,37.016023,-121.933888
+2022-10-29,Assault,Dormitory,October,37.044026,-121.992351
+2022-06-14,Burglary,Classroom Building,June,37.069646,-121.97526
+2022-02-17,Assault,Classroom Building,February,37.003962,-121.994006
+2022-09-14,Drug Offense,Library,September,37.006108,-121.909227
+2022-11-01,Burglary,Recreation Center,November,37.073988,-121.910194
+2022-07-13,Vandalism,Dormitory,July,37.067258,-121.947106
+2022-12-30,Drug Offense,Cafeteria,December,37.030445,-121.900204
+2022-04-09,Drug Offense,Cafeteria,April,37.036219,-121.952935
+2022-05-16,Theft,Dormitory,May,37.037825,-121.902047
+2022-05-08,Burglary,Classroom Building,May,37.017466,-121.967201
+2022-09-12,Theft,Library,September,37.068035,-121.993679
+2022-05-14,Vandalism,Library,May,37.060725,-121.952235
+2022-10-08,Drug Offense,Cafeteria,October,37.0284,-121.976159
+2022-06-30,Assault,Classroom Building,June,37.051451,-121.963207
+2022-01-15,Drug Offense,Library,January,37.045652,-121.966252
+2022-10-30,Assault,Cafeteria,October,37.097049,-121.986656
+2022-08-14,Theft,Library,August,37.00968,-121.965661
+2022-09-29,Vandalism,Cafeteria,September,37.059103,-121.934082
+2022-08-02,Assault,Dormitory,August,37.039726,-121.900072
+2022-06-21,Assault,Dormitory,June,37.035189,-121.927859
+2022-01-11,Vandalism,Recreation Center,January,37.063758,-121.918695
+2022-10-09,Assault,Recreation Center,October,37.097623,-121.911021
+2022-07-25,Drug Offense,Classroom Building,July,37.076456,-121.930175
+2022-12-19,Assault,Classroom Building,December,37.03355,-121.985231
+2022-11-21,Vandalism,Recreation Center,November,37.006264,-121.97581
+2022-06-13,Drug Offense,Dormitory,June,37.043228,-121.9478
+2022-08-08,Assault,Dormitory,August,37.077308,-121.904126
+2022-12-23,Theft,Recreation Center,December,37.011732,-121.9893
+2022-06-27,Vandalism,Dormitory,June,37.058969,-121.92546
+2022-10-16,Theft,Library,October,37.084815,-121.906417
+2022-08-01,Burglary,Classroom Building,August,37.098343,-121.96002
+2022-12-14,Assault,Library,December,37.038034,-121.985219
+2022-02-11,Theft,Dormitory,February,37.068493,-121.934324
+2022-08-24,Assault,Library,August,37.086206,-121.990274
+2022-09-01,Burglary,Cafeteria,September,37.049778,-121.941892
+2022-09-11,Vandalism,Recreation Center,September,37.024156,-121.983097
+2022-04-17,Drug Offense,Classroom Building,April,37.085958,-121.994147
+2022-01-03,Theft,Classroom Building,January,37.047062,-121.988417
+2022-10-16,Burglary,Cafeteria,October,37.045706,-121.902004
+2022-08-19,Vandalism,Classroom Building,August,37.042371,-121.914288
+2022-06-22,Assault,Classroom Building,June,37.011732,-121.972875
+2022-02-22,Assault,Recreation Center,February,37.040379,-121.960019
+2022-10-04,Drug Offense,Recreation Center,October,37.067138,-121.965528
+2022-11-29,Vandalism,Cafeteria,November,37.071377,-121.936081
+2022-09-09,Vandalism,Cafeteria,September,37.039916,-121.956824
+2022-12-19,Assault,Dormitory,December,37.061453,-121.992996
+2022-08-29,Theft,Cafeteria,August,37.082241,-121.934658
+2022-11-23,Burglary,Classroom Building,November,37.072634,-121.946308
+2022-02-06,Assault,Cafeteria,February,37.011048,-121.959496
+2022-01-22,Burglary,Cafeteria,January,37.040537,-121.967896
+2022-08-22,Burglary,Cafeteria,August,37.002995,-121.926275
+2022-01-08,Burglary,Dormitory,January,37.010978,-121.939369
+2022-12-15,Drug Offense,Recreation Center,December,37.070322,-121.936521
+2022-11-19,Theft,Recreation Center,November,37.095914,-121.98967
+2022-09-25,Drug Offense,Classroom Building,September,37.086717,-121.997081
+2022-09-15,Assault,Library,September,37.053492,-121.959576
+2022-01-22,Burglary,Recreation Center,January,37.052418,-121.96349
+2022-01-10,Theft,Recreation Center,January,37.019057,-121.998088
+2022-12-06,Vandalism,Classroom Building,December,37.051815,-121.915722
+2022-03-14,Vandalism,Library,March,37.037322,-121.977714
+2022-12-25,Theft,Classroom Building,December,37.008053,-121.991469
+2022-04-06,Burglary,Recreation Center,April,37.02214,-121.989999
+2022-07-30,Assault,Library,July,37.026504,-121.993385
+2022-01-01,Theft,Classroom Building,January,37.00656,-121.914372
+2022-12-22,Vandalism,Recreation Center,December,37.016212,-121.944032
+2022-01-19,Theft,Classroom Building,January,37.077346,-121.954359
+2022-02-24,Burglary,Dormitory,February,37.015337,-121.98004
+2022-05-28,Assault,Dormitory,May,37.043298,-121.947177
+2022-01-07,Vandalism,Recreation Center,January,37.034944,-121.921852
+2022-06-29,Theft,Library,June,37.075102,-121.907279
+2022-05-17,Vandalism,Library,May,37.002895,-121.910431
+2022-09-17,Vandalism,Library,September,37.039257,-121.912163
+2022-03-04,Assault,Classroom Building,March,37.069078,-121.901265
+2022-05-08,Theft,Library,May,37.075928,-121.963546
+2022-08-10,Assault,Dormitory,August,37.050106,-121.962361
+2022-12-30,Theft,Cafeteria,December,37.036491,-121.97391
+2022-06-29,Assault,Recreation Center,June,37.049597,-121.931826
+2022-01-14,Assault,Dormitory,January,37.027734,-121.947562
+2022-05-08,Drug Offense,Dormitory,May,37.011738,-121.984015
+2022-07-04,Burglary,Library,July,37.004681,-121.902927
+2022-07-02,Assault,Dormitory,July,37.000386,-121.982142
+2022-05-18,Vandalism,Recreation Center,May,37.061287,-121.991863
+2022-01-06,Burglary,Recreation Center,January,37.08819,-121.928038
+2022-07-15,Assault,Recreation Center,July,37.096639,-121.949236
+2022-06-02,Drug Offense,Cafeteria,June,37.03004,-121.94505
+2022-02-19,Vandalism,Dormitory,February,37.093082,-121.947924
+2022-09-09,Vandalism,Dormitory,September,37.026721,-121.91226
+2022-03-29,Assault,Library,March,37.037192,-121.999862
+2022-06-18,Theft,Library,June,37.024769,-121.968177
+2022-12-17,Vandalism,Library,December,37.085878,-121.95415
+2022-11-29,Theft,Recreation Center,November,37.044459,-121.96639
+2022-06-24,Burglary,Classroom Building,June,37.088068,-121.905497
+2022-04-18,Theft,Recreation Center,April,37.099189,-121.962326
+2022-12-24,Burglary,Library,December,37.096615,-121.920812
+2022-08-20,Vandalism,Classroom Building,August,37.067569,-121.975511
+2022-07-13,Drug Offense,Classroom Building,July,37.021646,-121.983395
+2022-01-25,Assault,Recreation Center,January,37.092276,-121.970592
+2022-04-21,Burglary,Library,April,37.045309,-121.950604
+2022-05-31,Vandalism,Library,May,37.077817,-121.915577
+2022-05-06,Vandalism,Cafeteria,May,37.013907,-121.95731
+2022-06-04,Vandalism,Library,June,37.084285,-121.918197
+2022-06-06,Burglary,Classroom Building,June,37.010241,-121.984362
+2022-01-01,Vandalism,Dormitory,January,37.03042,-121.992464
+2022-10-18,Drug Offense,Recreation Center,October,37.042466,-121.989238
+2022-01-27,Vandalism,Library,January,37.056822,-121.975344
+2022-06-10,Burglary,Cafeteria,June,37.059643,-121.988247
+2022-03-27,Drug Offense,Library,March,37.097588,-121.906744
+2022-10-02,Assault,Dormitory,October,37.03918,-121.975782
+2022-12-27,Drug Offense,Classroom Building,December,37.02504,-121.951661
+2022-08-31,Vandalism,Classroom Building,August,37.003999,-121.936029
+2022-08-26,Vandalism,Recreation Center,August,37.04083,-121.962259
+2022-01-11,Theft,Cafeteria,January,37.080936,-121.929096
+2022-03-23,Theft,Dormitory,March,37.095433,-121.964806
+2022-03-17,Theft,Classroom Building,March,37.089754,-121.923003
+2022-01-10,Vandalism,Classroom Building,January,37.035742,-121.937833
+2022-12-17,Assault,Cafeteria,December,37.028857,-121.91256
+2022-01-04,Theft,Recreation Center,January,37.011243,-121.978757
+2022-05-30,Drug Offense,Library,May,37.018303,-121.959697
+2022-09-24,Burglary,Classroom Building,September,37.074523,-121.947309
+2022-12-31,Vandalism,Cafeteria,December,37.048768,-121.999945
+2022-03-31,Vandalism,Classroom Building,March,37.04254,-121.993645
+2022-10-13,Theft,Recreation Center,October,37.020825,-121.906761
+2022-04-03,Vandalism,Dormitory,April,37.02154,-121.914166
+2022-11-28,Burglary,Recreation Center,November,37.080289,-121.984085
+2022-07-15,Vandalism,Cafeteria,July,37.060571,-121.988434
+2022-10-18,Vandalism,Cafeteria,October,37.072789,-121.936254
+2022-04-01,Vandalism,Cafeteria,April,37.081194,-121.952062
+2022-08-18,Assault,Recreation Center,August,37.091486,-121.995065
+2022-12-27,Assault,Library,December,37.029289,-121.928495
+2022-04-19,Theft,Library,April,37.041811,-121.982705
+2022-09-09,Theft,Cafeteria,September,37.010721,-121.918266
+2022-02-01,Drug Offense,Classroom Building,February,37.047314,-121.911772
+2022-01-30,Drug Offense,Cafeteria,January,37.073329,-121.959027
+2022-05-21,Theft,Library,May,37.037351,-121.948436
+2022-05-03,Assault,Recreation Center,May,37.088906,-121.926272
+2022-04-08,Assault,Cafeteria,April,37.000515,-121.930584
+2022-01-29,Vandalism,Classroom Building,January,37.091951,-121.928954
+2022-06-07,Drug Offense,Dormitory,June,37.017701,-121.951648
+2022-04-22,Theft,Library,April,37.014032,-121.9641
+2022-01-26,Burglary,Recreation Center,January,37.093712,-121.907669
+2022-06-20,Burglary,Cafeteria,June,37.028284,-121.966037
+2022-12-19,Burglary,Dormitory,December,37.060021,-121.90368
+2022-08-26,Assault,Classroom Building,August,37.01478,-121.974308
+2022-12-19,Drug Offense,Library,December,37.087356,-121.950811
+2022-03-05,Drug Offense,Recreation Center,March,37.089896,-121.981448
+2022-03-23,Drug Offense,Recreation Center,March,37.053267,-121.967373
+2022-09-23,Theft,Classroom Building,September,37.031654,-121.955312
+2022-11-12,Drug Offense,Dormitory,November,37.043308,-121.964265
+2022-04-10,Theft,Library,April,37.091497,-121.926826
+2022-03-15,Vandalism,Recreation Center,March,37.072755,-121.971009
+2022-04-17,Burglary,Dormitory,April,37.057771,-121.922082
+2022-07-26,Theft,Recreation Center,July,37.079559,-121.965547
+2022-12-08,Assault,Library,December,37.077087,-121.926411
+2022-04-06,Assault,Dormitory,April,37.014151,-121.913405
+2022-02-11,Theft,Dormitory,February,37.044132,-121.951359
+2022-05-11,Burglary,Classroom Building,May,37.044837,-121.943215
+2022-10-19,Vandalism,Library,October,37.062117,-121.950182
+2022-05-23,Assault,Cafeteria,May,37.086679,-121.937227
+2022-11-04,Theft,Recreation Center,November,37.040143,-121.958331
+2022-09-06,Vandalism,Dormitory,September,37.081084,-121.965181
+2022-10-18,Burglary,Recreation Center,October,37.021145,-121.994062
+2022-10-13,Drug Offense,Recreation Center,October,37.087603,-121.908145
+2022-11-22,Burglary,Library,November,37.012012,-121.966553
+2022-10-19,Burglary,Recreation Center,October,37.017537,-121.98841
+2022-12-08,Theft,Library,December,37.089987,-121.994312
+2022-04-30,Theft,Library,April,37.098049,-121.990355
+2022-01-10,Assault,Cafeteria,January,37.086347,-121.943349
+2022-08-25,Theft,Dormitory,August,37.036792,-121.965766
+2022-06-12,Assault,Library,June,37.075736,-121.968543
+2022-04-06,Assault,Library,April,37.065732,-121.948267
+2022-08-27,Assault,Dormitory,August,37.048497,-121.909884
+2022-03-03,Drug Offense,Classroom Building,March,37.055465,-121.917314
+2022-10-17,Theft,Recreation Center,October,37.072557,-121.996144
+2022-11-01,Assault,Library,November,37.077311,-121.978313
+2022-05-25,Assault,Classroom Building,May,37.090315,-121.995708
+2022-02-15,Burglary,Cafeteria,February,37.033307,-121.990027
+2022-05-08,Drug Offense,Recreation Center,May,37.047559,-121.917998
+2022-01-18,Vandalism,Dormitory,January,37.029819,-121.984907
+2022-09-15,Theft,Recreation Center,September,37.033027,-121.918612
+2022-04-23,Vandalism,Classroom Building,April,37.014038,-121.977264
+2022-12-22,Vandalism,Recreation Center,December,37.006885,-121.929429
+2022-06-06,Theft,Cafeteria,June,37.039523,-121.968916
+2022-10-16,Theft,Classroom Building,October,37.071863,-121.966402
+2022-04-24,Burglary,Recreation Center,April,37.072777,-121.91848
+2022-12-24,Vandalism,Classroom Building,December,37.021766,-121.902618
+2022-01-27,Burglary,Cafeteria,January,37.016236,-121.970916
+2022-01-27,Assault,Recreation Center,January,37.01798,-121.965449
+2022-04-30,Assault,Library,April,37.048006,-121.947782
+2022-02-18,Assault,Cafeteria,February,37.085361,-121.911055
+2022-06-06,Theft,Recreation Center,June,37.02201,-121.937711
+2022-04-06,Theft,Cafeteria,April,37.01115,-121.954103
+2022-07-10,Vandalism,Recreation Center,July,37.032233,-121.96835
+2022-11-11,Theft,Recreation Center,November,37.048258,-121.927017
+2022-07-07,Burglary,Cafeteria,July,37.006918,-121.912083
+2022-11-25,Assault,Classroom Building,November,37.073481,-121.98235
+2022-04-27,Drug Offense,Recreation Center,April,37.093916,-121.949369
+2022-09-14,Assault,Library,September,37.099981,-121.980274
+2022-11-29,Theft,Cafeteria,November,37.053491,-121.970975
+2022-04-13,Burglary,Classroom Building,April,37.030417,-121.940893
+2022-11-10,Vandalism,Cafeteria,November,37.092172,-121.919474
+2022-05-30,Vandalism,Classroom Building,May,37.072394,-121.944083
+2022-04-03,Theft,Cafeteria,April,37.09223,-121.950764
+2022-05-16,Vandalism,Classroom Building,May,37.087383,-121.916602
+2022-04-19,Assault,Dormitory,April,37.021384,-121.922877
+2022-11-18,Theft,Classroom Building,November,37.001217,-121.967717
+2022-03-12,Assault,Cafeteria,March,37.022957,-121.949314
+2022-04-22,Theft,Dormitory,April,37.073685,-121.990232
+2022-12-10,Assault,Cafeteria,December,37.051492,-121.906159
+2022-01-30,Drug Offense,Library,January,37.022865,-121.932286
+2022-10-17,Drug Offense,Dormitory,October,37.059288,-121.998994
+2022-12-08,Burglary,Classroom Building,December,37.047583,-121.929123
+2022-08-28,Drug Offense,Recreation Center,August,37.004398,-121.912048
+2022-05-05,Burglary,Recreation Center,May,37.052008,-121.996934
+2022-09-04,Assault,Cafeteria,September,37.022441,-121.904632
+2022-06-30,Vandalism,Cafeteria,June,37.058232,-121.989253
+2022-02-21,Burglary,Recreation Center,February,37.028754,-121.95433
+2022-07-01,Assault,Recreation Center,July,37.002095,-121.958838
+2022-09-25,Theft,Classroom Building,September,37.048946,-121.975632
+2022-12-27,Drug Offense,Cafeteria,December,37.058864,-121.924676
+2022-02-18,Burglary,Recreation Center,February,37.023583,-121.93795
+2022-01-12,Theft,Library,January,37.063962,-121.905146
+2022-11-09,Assault,Classroom Building,November,37.077828,-121.915165
+2022-06-21,Theft,Recreation Center,June,37.049042,-121.981465
+2022-04-05,Assault,Classroom Building,April,37.099582,-121.987064
+2022-08-31,Vandalism,Library,August,37.047146,-121.993191
+2022-07-02,Assault,Dormitory,July,37.094385,-121.903508
+2022-05-07,Theft,Dormitory,May,37.071939,-121.965001
+2022-07-27,Drug Offense,Recreation Center,July,37.025438,-121.97347
+2022-03-10,Drug Offense,Recreation Center,March,37.012729,-121.947419
+2022-05-17,Assault,Dormitory,May,37.014182,-121.968327
+2022-07-29,Drug Offense,Classroom Building,July,37.062671,-121.927246
+2022-06-11,Assault,Classroom Building,June,37.002427,-121.956988
+2022-01-09,Theft,Cafeteria,January,37.065212,-121.914675
+2022-01-26,Drug Offense,Library,January,37.047532,-121.903079
+2022-12-21,Assault,Classroom Building,December,37.026563,-121.998649
+2022-03-18,Burglary,Cafeteria,March,37.048375,-121.974389
+2022-10-20,Assault,Recreation Center,October,37.082372,-121.976723
+2022-11-17,Burglary,Dormitory,November,37.031063,-121.920877
+2022-05-22,Burglary,Library,May,37.071514,-121.944195
+2022-01-17,Drug Offense,Classroom Building,January,37.070495,-121.958136
+2022-01-12,Vandalism,Recreation Center,January,37.000531,-121.998864
+2022-09-10,Theft,Library,September,37.051122,-121.991671
+2022-09-30,Drug Offense,Library,September,37.005108,-121.903448
+2022-09-03,Drug Offense,Classroom Building,September,37.0859,-121.984797
+2022-01-10,Assault,Classroom Building,January,37.000066,-121.905833
+2022-06-09,Assault,Dormitory,June,37.027833,-121.98141
+2022-07-13,Assault,Cafeteria,July,37.069151,-121.98911
+2022-10-25,Theft,Cafeteria,October,37.026465,-121.902491
+2022-12-03,Theft,Cafeteria,December,37.063946,-121.947932
+2022-03-09,Assault,Library,March,37.039792,-121.92255
+2022-09-17,Theft,Recreation Center,September,37.014096,-121.903266
+2022-06-29,Vandalism,Cafeteria,June,37.086112,-121.938234
+2022-07-27,Vandalism,Library,July,37.004291,-121.929914
+2022-01-25,Vandalism,Classroom Building,January,37.091328,-121.947542
+2022-01-18,Assault,Library,January,37.035422,-121.987972
+2022-07-28,Theft,Cafeteria,July,37.07549,-121.911498
+2022-08-15,Drug Offense,Dormitory,August,37.010025,-121.924102
+2022-05-30,Vandalism,Dormitory,May,37.001706,-121.903295
+2022-02-01,Burglary,Dormitory,February,37.061506,-121.944756
+2022-08-02,Assault,Recreation Center,August,37.029595,-121.907071
+2022-01-30,Vandalism,Recreation Center,January,37.026591,-121.917185
+2022-02-28,Vandalism,Recreation Center,February,37.098511,-121.92166
+2022-06-03,Vandalism,Classroom Building,June,37.051899,-121.993393
+2022-02-02,Assault,Library,February,37.047241,-121.956174
+2022-07-04,Theft,Dormitory,July,37.02028,-121.957641
+2022-11-18,Drug Offense,Classroom Building,November,37.035776,-121.983632
+2022-01-26,Assault,Dormitory,January,37.044137,-121.97372
+2022-06-13,Assault,Classroom Building,June,37.052206,-121.996484
+2022-08-14,Vandalism,Recreation Center,August,37.090623,-121.918364
+2022-04-05,Assault,Recreation Center,April,37.055258,-121.914819
+2022-07-04,Theft,Library,July,37.09624,-121.988948
+2022-09-17,Burglary,Dormitory,September,37.063083,-121.900201
+2022-04-10,Drug Offense,Cafeteria,April,37.098789,-121.939668
+2022-10-18,Theft,Dormitory,October,37.012802,-121.941681
+2022-09-27,Vandalism,Dormitory,September,37.000206,-121.980109
+2022-02-08,Drug Offense,Cafeteria,February,37.095612,-121.966956
+2022-12-05,Drug Offense,Classroom Building,December,37.063839,-121.971914
+2022-08-30,Theft,Cafeteria,August,37.094782,-121.927144
+2022-09-18,Drug Offense,Classroom Building,September,37.032965,-121.920824
+2022-06-10,Vandalism,Cafeteria,June,37.010817,-121.960768
+2022-11-24,Vandalism,Library,November,37.022122,-121.931627
+2022-12-30,Burglary,Dormitory,December,37.010245,-121.960297
+2022-02-18,Drug Offense,Recreation Center,February,37.027665,-121.949366
+2022-06-07,Drug Offense,Cafeteria,June,37.03499,-121.929359
+2022-08-19,Burglary,Recreation Center,August,37.002458,-121.936601
+2022-10-24,Assault,Classroom Building,October,37.023057,-121.973129
+2022-06-29,Drug Offense,Classroom Building,June,37.080026,-121.904443
+2022-04-27,Drug Offense,Library,April,37.031655,-121.917319
+2022-08-29,Theft,Classroom Building,August,37.010399,-121.936602
+2022-11-07,Theft,Dormitory,November,37.075103,-121.984402
+2022-04-29,Vandalism,Recreation Center,April,37.0426,-121.910729
+2022-10-21,Vandalism,Cafeteria,October,37.010358,-121.99819
+2022-03-06,Assault,Dormitory,March,37.059059,-121.956447
+2022-08-01,Theft,Library,August,37.079869,-121.907654
+2022-11-19,Theft,Library,November,37.029915,-121.96116
+2022-05-23,Theft,Library,May,37.048627,-121.941185
+2022-02-27,Drug Offense,Recreation Center,February,37.098385,-121.930267
+2022-08-20,Assault,Dormitory,August,37.038955,-121.973623
+2022-06-27,Vandalism,Classroom Building,June,37.094463,-121.986445
+2022-03-24,Assault,Recreation Center,March,37.072027,-121.90746
+2022-01-15,Theft,Library,January,37.066467,-121.957695
+2022-08-12,Drug Offense,Library,August,37.019899,-121.963252
+2022-06-11,Drug Offense,Library,June,37.070687,-121.935047
+2022-10-09,Burglary,Classroom Building,October,37.092798,-121.913314
+2022-10-22,Assault,Classroom Building,October,37.081615,-121.908855
+2022-07-22,Vandalism,Cafeteria,July,37.027634,-121.963048
+2022-04-23,Drug Offense,Classroom Building,April,37.037989,-121.943955
+2022-08-15,Burglary,Cafeteria,August,37.066822,-121.971328
+2022-03-23,Theft,Recreation Center,March,37.001946,-121.960078
+2022-09-28,Vandalism,Library,September,37.030853,-121.905782
+2022-06-24,Theft,Dormitory,June,37.088827,-121.913969
+2022-08-26,Drug Offense,Recreation Center,August,37.0653,-121.965571
+2022-05-06,Assault,Recreation Center,May,37.054885,-121.918477
+2022-04-23,Vandalism,Dormitory,April,37.009861,-121.919893
+2022-04-29,Burglary,Recreation Center,April,37.004118,-121.918358
+2022-02-18,Theft,Dormitory,February,37.080756,-121.994899
+2022-06-23,Assault,Dormitory,June,37.062716,-121.949755
+2022-09-11,Vandalism,Recreation Center,September,37.016982,-121.985162
+2022-08-16,Theft,Classroom Building,August,37.077326,-121.943231
+2022-02-01,Drug Offense,Library,February,37.0983,-121.901775
+2022-10-27,Theft,Dormitory,October,37.099267,-121.988138
+2022-03-30,Drug Offense,Library,March,37.093826,-121.975543
+2022-09-10,Vandalism,Cafeteria,September,37.045821,-121.924259
+2022-06-21,Drug Offense,Recreation Center,June,37.020362,-121.943369
+2022-02-20,Burglary,Cafeteria,February,37.018582,-121.989526
+2022-10-16,Theft,Dormitory,October,37.011656,-121.964236
+2022-01-02,Drug Offense,Cafeteria,January,37.000465,-121.957515
+2022-06-29,Drug Offense,Library,June,37.06642,-121.959831
+2022-04-28,Theft,Dormitory,April,37.008579,-121.993731
+2022-06-18,Burglary,Dormitory,June,37.027812,-121.983069
+2022-09-11,Drug Offense,Classroom Building,September,37.096509,-121.984877
+2022-08-19,Assault,Library,August,37.080546,-121.941389
+2022-04-05,Vandalism,Classroom Building,April,37.056929,-121.948792
+2022-09-20,Drug Offense,Cafeteria,September,37.097176,-121.963616
+2022-02-11,Vandalism,Recreation Center,February,37.078792,-121.944471
+2022-12-15,Theft,Cafeteria,December,37.039563,-121.904453
+2022-06-18,Vandalism,Classroom Building,June,37.059832,-121.988108
+2022-08-26,Assault,Library,August,37.041754,-121.921842
+2022-07-31,Burglary,Cafeteria,July,37.069375,-121.908366
+2022-10-10,Assault,Classroom Building,October,37.025938,-121.924181
+2022-02-17,Theft,Library,February,37.045988,-121.942639
+2022-03-03,Assault,Classroom Building,March,37.095505,-121.902071
+2022-05-14,Assault,Cafeteria,May,37.086159,-121.96409
+2022-02-15,Theft,Dormitory,February,37.08877,-121.936139
+2022-10-06,Assault,Cafeteria,October,37.043,-121.996426
+2022-10-21,Drug Offense,Dormitory,October,37.077013,-121.949789
+2022-12-26,Assault,Classroom Building,December,37.078619,-121.925198
+2022-12-04,Burglary,Dormitory,December,37.079357,-121.969935
+2022-05-22,Burglary,Library,May,37.08008,-121.945115
+2022-11-24,Theft,Classroom Building,November,37.047333,-121.932487
+2022-12-28,Theft,Classroom Building,December,37.002136,-121.989768
+2022-01-31,Theft,Recreation Center,January,37.029218,-121.901701
+2022-08-01,Burglary,Recreation Center,August,37.013975,-121.96694
+2022-11-23,Drug Offense,Classroom Building,November,37.005105,-121.966873
+2022-07-04,Drug Offense,Library,July,37.032033,-121.905319
+2022-06-13,Drug Offense,Classroom Building,June,37.084515,-121.961724
+2022-11-12,Theft,Classroom Building,November,37.002477,-121.916897
+2022-11-22,Drug Offense,Recreation Center,November,37.066054,-121.984764
+2022-12-22,Burglary,Recreation Center,December,37.099607,-121.989977
+2022-06-27,Assault,Cafeteria,June,37.086711,-121.970573
+2022-03-30,Assault,Dormitory,March,37.043535,-121.920454
+2022-07-19,Assault,Library,July,37.067751,-121.906214
+2022-09-20,Vandalism,Classroom Building,September,37.062114,-121.990219
+2022-06-02,Burglary,Cafeteria,June,37.088436,-121.923084
+2022-10-09,Vandalism,Classroom Building,October,37.071187,-121.994627
+2022-12-20,Assault,Library,December,37.039622,-121.983256
+2022-09-13,Vandalism,Library,September,37.08219,-121.929947
+2022-11-27,Assault,Cafeteria,November,37.088308,-121.903342
+2022-04-14,Assault,Recreation Center,April,37.077475,-121.900577
+2022-09-20,Burglary,Library,September,37.061477,-121.996287
+2022-09-11,Theft,Recreation Center,September,37.001425,-121.96579
+2022-07-23,Drug Offense,Dormitory,July,37.082347,-121.913387
+2022-01-22,Assault,Library,January,37.096081,-121.993488
+2022-09-29,Burglary,Cafeteria,September,37.004457,-121.908672
+2022-04-24,Vandalism,Classroom Building,April,37.030505,-121.944201
+2022-10-06,Burglary,Library,October,37.098244,-121.959955
+2022-08-01,Assault,Library,August,37.066587,-121.959912
+2022-01-11,Theft,Dormitory,January,37.076819,-121.947229
+2022-04-30,Vandalism,Cafeteria,April,37.023752,-121.972869
+2022-03-19,Burglary,Recreation Center,March,37.025806,-121.946768
+2022-05-03,Assault,Recreation Center,May,37.070319,-121.905072
+2022-08-26,Drug Offense,Classroom Building,August,37.069409,-121.921881
+2022-08-12,Theft,Cafeteria,August,37.016893,-121.962594
+2022-08-14,Vandalism,Recreation Center,August,37.041378,-121.931362
+2022-06-19,Assault,Cafeteria,June,37.029589,-121.969671
+2022-04-15,Vandalism,Classroom Building,April,37.035589,-121.91897
+2022-11-12,Theft,Recreation Center,November,37.057759,-121.992472
+2022-11-26,Vandalism,Dormitory,November,37.007825,-121.962871
+2022-10-14,Theft,Library,October,37.076659,-121.931132
+2022-03-17,Burglary,Dormitory,March,37.070798,-121.923279
+2022-02-12,Assault,Classroom Building,February,37.028715,-121.945174
+2022-06-23,Theft,Classroom Building,June,37.054335,-121.926037
+2022-09-12,Theft,Library,September,37.095687,-121.972201
+2022-03-18,Burglary,Cafeteria,March,37.079328,-121.934003
+2022-11-03,Theft,Cafeteria,November,37.058024,-121.922512
+2022-02-27,Assault,Library,February,37.094403,-121.996331
+2022-08-24,Drug Offense,Dormitory,August,37.01474,-121.924371
+2022-11-11,Assault,Dormitory,November,37.008379,-121.948388
+2022-09-21,Theft,Cafeteria,September,37.021986,-121.97257
+2022-08-01,Vandalism,Library,August,37.070184,-121.996981
+2022-01-03,Burglary,Library,January,37.087332,-121.955552
+2022-01-05,Burglary,Cafeteria,January,37.050239,-121.945995
+2022-07-10,Drug Offense,Cafeteria,July,37.064554,-121.965514
+2022-05-09,Drug Offense,Dormitory,May,37.010111,-121.968162
+2022-04-25,Assault,Cafeteria,April,37.016814,-121.944387
+2022-01-03,Drug Offense,Cafeteria,January,37.031803,-121.904193
+2022-10-04,Drug Offense,Dormitory,October,37.096573,-121.937987
+2022-11-19,Assault,Cafeteria,November,37.06175,-121.901462
+2022-08-13,Theft,Classroom Building,August,37.088728,-121.923493
+2022-11-28,Vandalism,Recreation Center,November,37.031359,-121.963446
+2022-07-18,Theft,Cafeteria,July,37.020127,-121.951285
+2022-08-06,Drug Offense,Dormitory,August,37.099037,-121.908785
+2022-07-09,Drug Offense,Dormitory,July,37.011835,-121.997481
+2022-12-30,Assault,Recreation Center,December,37.089864,-121.946283
+2022-01-13,Burglary,Recreation Center,January,37.020019,-121.932635
+2022-09-10,Drug Offense,Classroom Building,September,37.064422,-121.987791
+2022-12-31,Burglary,Recreation Center,December,37.02596,-121.993992
+2022-10-25,Drug Offense,Dormitory,October,37.020986,-121.986769
+2022-12-10,Assault,Dormitory,December,37.019324,-121.931453
+2022-02-22,Assault,Dormitory,February,37.00495,-121.989815
+2022-04-21,Vandalism,Dormitory,April,37.013417,-121.968346
+2022-12-15,Assault,Recreation Center,December,37.029875,-121.974494
+2022-09-01,Assault,Recreation Center,September,37.075054,-121.900198
+2022-06-11,Assault,Dormitory,June,37.053398,-121.90558
+2022-01-17,Drug Offense,Recreation Center,January,37.039661,-121.989332
+2022-03-19,Theft,Classroom Building,March,37.040877,-121.970387
+2022-11-27,Assault,Cafeteria,November,37.049341,-121.934296
+2022-01-08,Burglary,Cafeteria,January,37.046105,-121.906484
+2022-03-19,Assault,Recreation Center,March,37.088476,-121.929802
+2022-11-29,Burglary,Recreation Center,November,37.048968,-121.986831
+2022-08-25,Assault,Classroom Building,August,37.039701,-121.92956
+2022-06-11,Drug Offense,Classroom Building,June,37.028489,-121.989601
+2022-09-08,Drug Offense,Recreation Center,September,37.09079,-121.929095
+2022-01-27,Burglary,Dormitory,January,37.061528,-121.92075
+2022-03-28,Assault,Classroom Building,March,37.083565,-121.951654
+2022-11-03,Assault,Library,November,37.088119,-121.908358
+2022-05-18,Assault,Library,May,37.027155,-121.939245
+2022-09-06,Assault,Dormitory,September,37.052658,-121.946205
+2022-05-05,Burglary,Library,May,37.093766,-121.969481
+2022-03-11,Drug Offense,Classroom Building,March,37.098343,-121.909787
+2022-04-21,Vandalism,Library,April,37.045872,-121.918255
+2022-10-07,Burglary,Library,October,37.076905,-121.932211
+2022-06-12,Burglary,Library,June,37.031983,-121.980355
+2022-04-18,Drug Offense,Recreation Center,April,37.067153,-121.915703
+2022-11-14,Vandalism,Library,November,37.001625,-121.93572
+2022-09-11,Drug Offense,Classroom Building,September,37.044287,-121.910191
+2022-03-03,Drug Offense,Cafeteria,March,37.032147,-121.952582
+2022-02-01,Theft,Recreation Center,February,37.051477,-121.985956
+2022-02-26,Assault,Recreation Center,February,37.071289,-121.916952
+2022-06-28,Vandalism,Recreation Center,June,37.005791,-121.970861
+2022-03-15,Burglary,Classroom Building,March,37.003804,-121.904346
+2022-11-04,Drug Offense,Dormitory,November,37.066717,-121.90358
+2022-07-09,Vandalism,Cafeteria,July,37.053149,-121.919793
+2022-04-05,Assault,Cafeteria,April,37.037441,-121.964618
+2022-05-25,Drug Offense,Recreation Center,May,37.037827,-121.934214
+2022-12-29,Burglary,Cafeteria,December,37.035945,-121.909963
+2022-12-09,Drug Offense,Recreation Center,December,37.098327,-121.996957
+2022-10-01,Theft,Recreation Center,October,37.019362,-121.988775
+2022-05-31,Assault,Classroom Building,May,37.004236,-121.977226
+2022-08-14,Assault,Dormitory,August,37.044679,-121.916301
+2022-09-30,Drug Offense,Classroom Building,September,37.022182,-121.950605
+2022-08-24,Drug Offense,Classroom Building,August,37.092962,-121.933279
+2022-08-24,Assault,Library,August,37.079808,-121.944901
+2022-05-02,Assault,Library,May,37.098047,-121.941134
+2022-09-18,Drug Offense,Dormitory,September,37.004551,-121.980202
+2022-10-28,Vandalism,Classroom Building,October,37.040477,-121.939872
+2022-04-25,Assault,Classroom Building,April,37.077193,-121.958691
+2022-04-13,Burglary,Library,April,37.071006,-121.921013
+2022-09-17,Drug Offense,Classroom Building,September,37.031726,-121.902073
+2022-07-30,Vandalism,Recreation Center,July,37.064966,-121.9119
+2022-11-15,Theft,Recreation Center,November,37.055594,-121.92584
+2022-10-12,Vandalism,Library,October,37.077054,-121.909175
+2022-12-05,Vandalism,Cafeteria,December,37.015035,-121.944172
+2022-08-20,Theft,Classroom Building,August,37.042838,-121.907684
+2022-08-02,Drug Offense,Library,August,37.010509,-121.901743
+2022-07-03,Drug Offense,Dormitory,July,37.087545,-121.992617
+2022-04-09,Drug Offense,Cafeteria,April,37.049097,-121.928244
+2022-07-29,Theft,Classroom Building,July,37.073815,-121.909351
+2022-04-04,Theft,Dormitory,April,37.079987,-121.968907
+2022-11-04,Drug Offense,Cafeteria,November,37.049843,-121.929821
+2022-02-21,Burglary,Recreation Center,February,37.013844,-121.980601
+2022-11-03,Theft,Dormitory,November,37.048104,-121.970175
+2022-01-14,Theft,Recreation Center,January,37.086256,-121.941372
+2022-05-22,Theft,Classroom Building,May,37.034867,-121.915117
+2022-07-28,Assault,Library,July,37.080488,-121.900165
+2022-07-28,Vandalism,Cafeteria,July,37.084731,-121.958554
+2022-10-02,Drug Offense,Cafeteria,October,37.01275,-121.915936
+2022-04-08,Assault,Dormitory,April,37.005976,-121.964973
+2022-09-03,Theft,Recreation Center,September,37.091974,-121.903923
+2022-03-18,Theft,Cafeteria,March,37.064056,-121.931135
+2022-03-24,Theft,Cafeteria,March,37.004245,-121.948552
+2022-01-19,Drug Offense,Classroom Building,January,37.054687,-121.96599
+2022-05-03,Theft,Cafeteria,May,37.00686,-121.977109
+2022-10-14,Vandalism,Classroom Building,October,37.035798,-121.956486
+2022-01-12,Theft,Classroom Building,January,37.059093,-121.927761
+2022-01-10,Burglary,Library,January,37.031763,-121.967105
+2022-02-17,Vandalism,Library,February,37.001969,-121.995913
+2022-08-26,Burglary,Library,August,37.025782,-121.925976
+2022-08-23,Assault,Dormitory,August,37.062831,-121.923021
+2022-02-17,Vandalism,Classroom Building,February,37.076892,-121.914343
+2022-10-10,Drug Offense,Dormitory,October,37.072032,-121.902099
+2022-02-07,Burglary,Classroom Building,February,37.089883,-121.941328
+2022-09-29,Burglary,Classroom Building,September,37.058816,-121.996573
+2022-07-29,Theft,Library,July,37.099853,-121.986842
+2022-04-10,Burglary,Classroom Building,April,37.074035,-121.917898
+2022-03-06,Drug Offense,Recreation Center,March,37.037305,-121.980315
+2022-05-20,Drug Offense,Classroom Building,May,37.009876,-121.925139
+2022-09-05,Vandalism,Cafeteria,September,37.045265,-121.928628
+2022-11-19,Assault,Cafeteria,November,37.091541,-121.985342
+2022-12-17,Assault,Cafeteria,December,37.091917,-121.958837
+2022-08-27,Assault,Recreation Center,August,37.030527,-121.905694
+2022-04-20,Vandalism,Classroom Building,April,37.099065,-121.980111
+2022-10-08,Burglary,Recreation Center,October,37.065684,-121.98935
+2022-04-24,Burglary,Dormitory,April,37.065091,-121.917269
+2022-12-15,Drug Offense,Library,December,37.06845,-121.958267
+2022-02-08,Vandalism,Cafeteria,February,37.038307,-121.960688
+2022-06-10,Burglary,Dormitory,June,37.058971,-121.911843
+2022-02-19,Burglary,Library,February,37.092907,-121.994647
+2022-05-25,Burglary,Library,May,37.018162,-121.988778
+2022-06-17,Vandalism,Cafeteria,June,37.019333,-121.965339
+2022-04-30,Vandalism,Cafeteria,April,37.050653,-121.937054
+2022-10-01,Theft,Dormitory,October,37.073214,-121.910989
+2022-12-06,Vandalism,Cafeteria,December,37.098909,-121.933714
+2022-10-15,Assault,Cafeteria,October,37.084536,-121.922196
+2022-12-01,Drug Offense,Dormitory,December,37.030753,-121.912431
+2022-02-05,Drug Offense,Classroom Building,February,37.004276,-121.999963
+2022-07-29,Assault,Classroom Building,July,37.027373,-121.95379
+2022-07-02,Theft,Dormitory,July,37.063836,-121.989823
+2022-07-18,Theft,Library,July,37.067301,-121.919818
+2022-04-09,Assault,Cafeteria,April,37.018531,-121.958487
+2022-12-21,Vandalism,Cafeteria,December,37.051998,-121.954819
+2022-08-02,Vandalism,Cafeteria,August,37.079983,-121.903948
+2022-01-03,Drug Offense,Dormitory,January,37.079895,-121.992201
+2022-06-03,Assault,Cafeteria,June,37.080494,-121.99334
+2022-09-20,Assault,Classroom Building,September,37.023597,-121.98469
+2022-05-22,Assault,Classroom Building,May,37.019752,-121.947168
+2022-09-22,Theft,Cafeteria,September,37.067169,-121.952968
+2022-09-17,Vandalism,Cafeteria,September,37.09597,-121.975971
+2022-09-01,Burglary,Library,September,37.076314,-121.912982
+2022-08-27,Drug Offense,Recreation Center,August,37.056207,-121.954378
+2022-04-29,Assault,Dormitory,April,37.059618,-121.957119
+2022-03-02,Vandalism,Cafeteria,March,37.055519,-121.958307
+2022-12-29,Burglary,Cafeteria,December,37.040047,-121.930465
+2022-04-04,Burglary,Recreation Center,April,37.009285,-121.983346
+2022-04-04,Assault,Cafeteria,April,37.08512,-121.922892
+2022-02-28,Burglary,Cafeteria,February,37.028145,-121.962273
+2022-01-21,Burglary,Recreation Center,January,37.092603,-121.918192
+2022-10-22,Burglary,Library,October,37.061435,-121.977851
+2022-09-14,Drug Offense,Dormitory,September,37.004425,-121.956874
+2022-12-18,Burglary,Dormitory,December,37.067263,-121.917152
+2022-09-29,Vandalism,Library,September,37.085269,-121.996722
+2022-07-02,Vandalism,Dormitory,July,37.024416,-121.966091
+2022-01-21,Burglary,Classroom Building,January,37.018873,-121.919702
+2022-05-17,Theft,Dormitory,May,37.076747,-121.948317
+2022-03-17,Vandalism,Library,March,37.098293,-121.985594
+2022-07-18,Assault,Cafeteria,July,37.089965,-121.988354
+2022-03-29,Theft,Library,March,37.016318,-121.930378
+2022-01-27,Burglary,Dormitory,January,37.010957,-121.943415
+2022-03-12,Assault,Cafeteria,March,37.042023,-121.927153
+2022-05-14,Drug Offense,Recreation Center,May,37.090068,-121.923013
+2022-04-14,Vandalism,Recreation Center,April,37.084969,-121.996705
+2022-03-20,Drug Offense,Dormitory,March,37.03102,-121.948457
+2022-02-07,Assault,Cafeteria,February,37.041595,-121.976875
+2022-05-03,Vandalism,Recreation Center,May,37.030787,-121.905457
+2022-10-06,Assault,Cafeteria,October,37.029418,-121.96461
+2022-06-23,Theft,Library,June,37.000371,-121.915492
+2022-03-31,Assault,Cafeteria,March,37.015484,-121.979586
+2022-03-19,Burglary,Cafeteria,March,37.025526,-121.911538
+2022-05-13,Burglary,Cafeteria,May,37.020645,-121.920247
+2022-07-03,Drug Offense,Dormitory,July,37.080805,-121.907298
+2022-12-07,Drug Offense,Recreation Center,December,37.011556,-121.978272
+2022-01-12,Vandalism,Classroom Building,January,37.07429,-121.9804
+2022-01-17,Assault,Library,January,37.028633,-121.983326
+2022-03-15,Theft,Recreation Center,March,37.01727,-121.951845
+2022-02-01,Vandalism,Classroom Building,February,37.010968,-121.96783
+2022-01-24,Assault,Cafeteria,January,37.042659,-121.997545
+2022-02-21,Assault,Cafeteria,February,37.038833,-121.990588
+2022-11-30,Assault,Cafeteria,November,37.049358,-121.917426
+2022-02-17,Drug Offense,Dormitory,February,37.081842,-121.991955
+2022-06-03,Drug Offense,Recreation Center,June,37.060123,-121.916541
+2022-05-12,Burglary,Recreation Center,May,37.023797,-121.923807
+2022-09-25,Theft,Recreation Center,September,37.089076,-121.919388
+2022-12-05,Assault,Dormitory,December,37.01073,-121.999094
+2022-05-15,Theft,Library,May,37.019172,-121.972952
+2022-12-17,Vandalism,Cafeteria,December,37.061618,-121.961573
+2022-09-17,Burglary,Cafeteria,September,37.070341,-121.964693
+2022-08-23,Burglary,Dormitory,August,37.015443,-121.968731
+2022-01-16,Theft,Classroom Building,January,37.088432,-121.904147
+2022-08-04,Burglary,Cafeteria,August,37.020751,-121.921153
+2022-08-06,Vandalism,Recreation Center,August,37.027335,-121.911287
+2022-03-21,Assault,Classroom Building,March,37.016555,-121.933404
+2022-06-23,Assault,Recreation Center,June,37.008421,-121.902611
+2022-02-14,Theft,Cafeteria,February,37.070063,-121.915818
+2022-06-27,Drug Offense,Library,June,37.056667,-121.95232
+2022-08-25,Drug Offense,Recreation Center,August,37.062188,-121.947126
+2022-10-25,Assault,Cafeteria,October,37.046938,-121.924055
+2022-09-02,Drug Offense,Library,September,37.01782,-121.982883
+2022-04-14,Vandalism,Cafeteria,April,37.043184,-121.967925
+2022-06-03,Theft,Classroom Building,June,37.007412,-121.915553
+2022-02-28,Assault,Cafeteria,February,37.07716,-121.945608
+2022-09-26,Assault,Dormitory,September,37.097932,-121.99274
+2022-05-02,Assault,Library,May,37.076667,-121.973363
+2022-06-15,Theft,Recreation Center,June,37.03686,-121.978072
+2022-05-08,Drug Offense,Cafeteria,May,37.078904,-121.985576
+2022-08-21,Assault,Recreation Center,August,37.084002,-121.933842
+2022-03-05,Burglary,Library,March,37.005902,-121.918902
+2022-06-06,Assault,Classroom Building,June,37.062776,-121.909502
+2022-01-29,Burglary,Dormitory,January,37.074872,-121.943888
+2022-11-01,Burglary,Recreation Center,November,37.083655,-121.972195
+2022-07-19,Drug Offense,Cafeteria,July,37.054695,-121.970638
+2022-04-21,Vandalism,Cafeteria,April,37.09682,-121.97738
+2022-02-06,Theft,Classroom Building,February,37.001574,-121.967415
+2022-07-10,Burglary,Dormitory,July,37.050251,-121.997164
+2022-01-10,Assault,Cafeteria,January,37.055925,-121.912572
+2022-12-12,Burglary,Dormitory,December,37.070473,-121.937703
+2022-11-05,Assault,Library,November,37.095596,-121.904172
+2022-05-30,Vandalism,Cafeteria,May,37.082427,-121.939226
+2022-07-16,Drug Offense,Dormitory,July,37.048776,-121.998668
+2022-01-07,Burglary,Dormitory,January,37.060626,-121.901091
+2022-10-10,Drug Offense,Library,October,37.08181,-121.96594
+2022-01-28,Burglary,Classroom Building,January,37.015205,-121.921594
+2022-09-19,Drug Offense,Library,September,37.074394,-121.903295
+2022-10-25,Theft,Classroom Building,October,37.087484,-121.944434
+2022-04-19,Vandalism,Classroom Building,April,37.010128,-121.95165
+2022-05-05,Burglary,Dormitory,May,37.03137,-121.948759
+2022-07-29,Burglary,Classroom Building,July,37.03017,-121.913818
+2022-08-12,Burglary,Classroom Building,August,37.084433,-121.968453
+2022-09-27,Assault,Dormitory,September,37.059958,-121.956982
+2022-03-07,Burglary,Recreation Center,March,37.090909,-121.981264
+2022-04-15,Burglary,Classroom Building,April,37.069773,-121.902962
+2022-02-13,Assault,Classroom Building,February,37.017528,-121.979803
+2022-04-04,Burglary,Library,April,37.069372,-121.922085
+2022-01-27,Vandalism,Cafeteria,January,37.049055,-121.939031
+2022-01-06,Drug Offense,Cafeteria,January,37.021268,-121.952339
+2022-04-03,Assault,Classroom Building,April,37.011207,-121.967858
+2022-01-29,Burglary,Cafeteria,January,37.028478,-121.955537
+2022-05-13,Assault,Library,May,37.093013,-121.981873
+2022-12-25,Burglary,Cafeteria,December,37.040139,-121.93844
+2022-12-22,Vandalism,Library,December,37.094656,-121.986685
+2022-08-17,Vandalism,Dormitory,August,37.091788,-121.991895
+2022-01-08,Vandalism,Classroom Building,January,37.048074,-121.954541
+2022-06-21,Drug Offense,Recreation Center,June,37.02096,-121.965254
+2022-10-30,Vandalism,Recreation Center,October,37.045417,-121.913479
+2022-12-31,Assault,Library,December,37.095506,-121.948107
+2022-04-10,Drug Offense,Recreation Center,April,37.08701,-121.939183
+2022-08-20,Drug Offense,Recreation Center,August,37.034909,-121.980581
+2022-10-15,Theft,Library,October,37.041313,-121.947718
+2022-01-12,Burglary,Classroom Building,January,37.004444,-121.985416
+2022-10-18,Drug Offense,Dormitory,October,37.060018,-121.9775
+2022-08-11,Assault,Dormitory,August,37.083733,-121.967306
+2022-03-19,Vandalism,Dormitory,March,37.010483,-121.991647
+2022-08-18,Drug Offense,Classroom Building,August,37.093712,-121.988198
+2022-01-10,Drug Offense,Recreation Center,January,37.014091,-121.913733
+2022-03-14,Theft,Dormitory,March,37.025429,-121.933405
+2022-12-19,Assault,Dormitory,December,37.081673,-121.939282
+2022-12-30,Vandalism,Classroom Building,December,37.095749,-121.929112
+2022-01-12,Vandalism,Dormitory,January,37.011275,-121.944159
+2022-10-29,Theft,Recreation Center,October,37.071819,-121.919804
+2022-11-20,Burglary,Recreation Center,November,37.002632,-121.928112
+2022-06-29,Drug Offense,Recreation Center,June,37.082568,-121.925317
+2022-11-16,Vandalism,Dormitory,November,37.051235,-121.954198
+2022-04-06,Burglary,Cafeteria,April,37.054942,-121.929536
+2022-03-31,Burglary,Recreation Center,March,37.092291,-121.938296
+2022-03-21,Drug Offense,Library,March,37.088783,-121.929874
+2022-05-30,Vandalism,Recreation Center,May,37.006834,-121.949917
+2022-06-04,Vandalism,Recreation Center,June,37.028649,-121.971483
+2022-06-22,Vandalism,Recreation Center,June,37.035593,-121.968527
+2022-04-21,Vandalism,Cafeteria,April,37.057861,-121.93164
+2022-09-11,Drug Offense,Classroom Building,September,37.026875,-121.987024
+2022-04-22,Vandalism,Classroom Building,April,37.005881,-121.942425
+2022-04-11,Burglary,Library,April,37.018613,-121.999075
+2022-05-20,Assault,Dormitory,May,37.092775,-121.946286
+2022-01-30,Drug Offense,Library,January,37.009245,-121.915708
+2022-10-03,Drug Offense,Library,October,37.09832,-121.95514
+2022-12-22,Vandalism,Cafeteria,December,37.004249,-121.988245
+2022-08-12,Assault,Cafeteria,August,37.038165,-121.911448
+2022-03-18,Burglary,Dormitory,March,37.014804,-121.917601
+2022-07-09,Drug Offense,Library,July,37.001498,-121.954261
+2022-07-20,Burglary,Library,July,37.06444,-121.993962
+2022-05-11,Theft,Recreation Center,May,37.061476,-121.90556
+2022-10-27,Drug Offense,Classroom Building,October,37.016026,-121.927039
+2022-04-21,Burglary,Dormitory,April,37.060909,-121.981488
+2022-04-23,Burglary,Cafeteria,April,37.00062,-121.999072
+2022-01-30,Burglary,Recreation Center,January,37.053209,-121.905722
+2022-06-16,Drug Offense,Classroom Building,June,37.06443,-121.92857
+2022-01-30,Drug Offense,Recreation Center,January,37.049387,-121.941811
+2022-11-19,Theft,Classroom Building,November,37.012637,-121.912318
+2022-11-10,Assault,Library,November,37.076079,-121.90018
+2022-04-08,Drug Offense,Recreation Center,April,37.029772,-121.977298
+2022-09-07,Assault,Library,September,37.012516,-121.903579
+2022-09-24,Burglary,Cafeteria,September,37.078089,-121.983368
+2022-01-26,Burglary,Library,January,37.055269,-121.958623
+2022-12-28,Assault,Dormitory,December,37.015149,-121.983793
+2022-08-24,Vandalism,Dormitory,August,37.096347,-121.969504
+2022-06-21,Drug Offense,Classroom Building,June,37.094144,-121.992439
+2022-10-05,Assault,Dormitory,October,37.04608,-121.987038
+2022-08-26,Burglary,Recreation Center,August,37.000479,-121.944623
+2022-11-14,Theft,Recreation Center,November,37.011389,-121.927798
+2022-07-15,Burglary,Recreation Center,July,37.069812,-121.982367
+2022-05-03,Drug Offense,Classroom Building,May,37.094174,-121.927896
+2022-03-16,Drug Offense,Classroom Building,March,37.029797,-121.929077
+2022-01-30,Vandalism,Classroom Building,January,37.073193,-121.965777
+2022-07-18,Assault,Cafeteria,July,37.037559,-121.964089
+2022-04-18,Assault,Library,April,37.061662,-121.909959
+2022-04-08,Vandalism,Recreation Center,April,37.017319,-121.91248
+2022-09-19,Burglary,Library,September,37.002765,-121.933966
+2022-03-05,Vandalism,Library,March,37.041444,-121.920872
+2022-02-06,Assault,Cafeteria,February,37.07212,-121.951989
+2022-12-09,Drug Offense,Library,December,37.064386,-121.949823
